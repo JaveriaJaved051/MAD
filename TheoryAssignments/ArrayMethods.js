@@ -1,3 +1,4 @@
+
 let array=["MAD" ,"Computer Vision","Software Testing" ,"Data Science","Financial Accounting"];
 console.log(array)
 
